@@ -1,0 +1,493 @@
+﻿<!doctype html>
+<html>
+<head>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png"  href="/apple-touch-icon.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<title>China Mobile Limited - Media Centre &gt; News Highlights</title>
+<link href="../css/fonts.css" rel="stylesheet" type="text/css">
+<link href="../css/reset.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link href="../css/tablet.css" rel="stylesheet" type="text/css">
+<link href="../css/desktop.css" rel="stylesheet" type="text/css">
+<link href="../../js/slick/slick.css" rel="stylesheet" type="text/css">
+<link href="../css/style1.css" rel="stylesheet" type="text/css">
+<link href="../css/style2.css" rel="stylesheet" type="text/css">
+<link href="../css/magnific-popup.css" rel="stylesheet" type="text/css">
+<link href="../css/responsive-tabs.css" rel="stylesheet" type="text/css">
+<link href="../../js/fancybox/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css">
+<link href="../css/print.css" rel="stylesheet" type="text/css"></head>
+
+<body class="contentPage">
+
+<div class="wrapper">
+   <div class="headerWrapper">
+     <div id="search-popup" class="mfp-hide search">
+		 <h1>Search</h1>
+		 <div class="search-container">
+			<form method="get" action="../global/search.php">
+		 	<input type="text" id="search" value="" name="q" id="q"   placeholder="Search">
+			<span><input type="image" src="../images/global/searchicon.svg" width="100px" height="40px" alt="submit" style="margin-bottom:5px;"></span>
+			</form>
+			
+			
+			
+		 </div>
+	 </div>
+     <div id="tools-popup" class="mfp-hide">
+		 <h1>Tools</h1>
+		 <div class="search-container">
+		 <ul class="tools">
+			                  <li><a href="../global/rss.php"><div class="icon"><img src="../images/global/icon_rss.png" alt=""/></div>RSS Feeds</a></li>
+                 <li class="print"><a href="#"><div class="icon"><img src="../images/global/icon_print.png" alt=""/></div>Print this Page</a></li>
+                 <li class="bookmark"><a href="#" class="bookmark"><div class="icon"><img src="../images/global/icon_add.png" alt=""/></div>Add to Favourites</a></li>
+                 <li><a href="../webform/emailpage.php?page=https://www.chinamobileltd.com/en/media/news.php" id="emailpage" ><div class="icon"><img src="../images/global/icon_email.png" alt=""/></div>Email this Page</a></li>
+                 <li><a href="#" class="addthis_button"><div class="icon"><img src="../images/global/icon_share.png" alt=""/></div>Share this Page</a></li>
+                 <li><a href="../download/index.php"><div class="icon"><img src="../images/global/icon_downloadtools.png" alt=""/></div>Download Centre</a></li>
+                 <div class="clear"></div>
+            </ul>
+		 </div>
+	 </div>
+     <div id="language-popup" class="mfp-hide">
+		 <h1>Language</h1>
+		 <div class="search-container">
+			 <div><a href="javascript:changeLanguage('en');" class="act">EN</a>  <a href="javascript:changeLanguage('tc');">繁體</a>  <a href="javascript:changeLanguage('sc');">简体</a> </div>
+		 </div>
+	 </div>
+      <div class="row header">
+		  <div class="fleft">
+			  <div class="logo"><a href="../global/home.php"><img src="../images/global/logo.svg" alt=""/></a></div>
+		  </div>
+		  <div class="fright">
+		  	  
+			  <div class="topIcon">
+			  	<ul>
+				   <li><a href="#search-popup" class="maintools-popup"><img src="../images/global/icon_search.svg" alt=""/></a></li>
+				   <li><a href="#tools-popup" class="maintools-popup"><img src="../images/global/icon_tools.svg" alt=""/></a></li>
+				   <li><a href="#language-popup" class="maintools-popup"><img src="../images/global/icon_language.svg" alt=""/></a></li>
+				   <li class="hamburger"><a href="javascript:void(0);" onclick="openNav()"><img src="../images/global/icon_hamburger.svg" alt=""/></a></li>
+				</ul>
+			  </div>
+			  <div class="topnavWrapper navControl">
+	<ul class="topnav">
+        <li class=""><a href="javascript:void(0);">About China Mobile</a>
+        	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subAbout">
+				  <ul>
+					 <li><a href="../about/overview.php">Overview</a></li>
+					 <li><a href="../about/chairman.php">Chairman's Statement</a></li>
+					 <li><a href="../about/directors.php">Board of Directors and Senior Management</a></li>
+					 <li><a href="../about/milestones.php">Milestones</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../about/awards.php">Recognition & Awards</a></li>
+					 <li><a href="../about/rating.php">Credit Ratings</a></li>
+					 <li><a href="../about/cg.php">Corporate Governance</a></li>
+					 <li><a href="../about/sd.php">Sustainable Development</a></li>
+				  </ul>
+				</div>
+				</div>
+            </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Investor Relations</a>
+         	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subIr">
+				  <ul>
+					 <li><a href="../ir/operation_m.php">Monthly Customer Data</a></li>
+					 <li><a href="../ir/operation_q.php">Key Operation Data</a></li>
+					 <li><a href="../ir/financial.php">Financial Review</a></li>
+					 <li><a href="../ir/stockquote.php">Shareholders Service</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../ir/reports.php">Financial Reports</a></li>
+					 <li><a href="../ir/webcasts.php">Presentations / Webcasts</a></li>
+				  </ul>
+					<ul>
+					 <li><a href="../ir/announcements.php">Announcements</a></li>
+					 <li><a href="../ir/sec.php">US SEC Filings</a></li>
+					 <li><a href="../ir/circulars.php">Circulars & Other Documents</a></li>
+					 <li><a href="../ir/faq.php">FAQs</a></li>
+					</ul>
+					<ul>				 
+					 <li><a href="../ir/corpactions.php">Corporate Actions</a></li>
+					 <li><a href="../ir/ircalendar.php">IR Calendar</a></li>
+					 <li><a href="../ir/analyst.php">Analyst Coverage</a></li>
+		             <li><a href="../ir/ircontact.php">IR Contact</a></li>
+					</ul>
+				</div>
+				</div>
+            </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Media Centre</a>
+        		<div class="subnav">
+          	  <div class="row">
+         		<div class="subMedia">
+				  <ul>
+					 <li><a href="../media/press.php">Press Releases</a></li>
+					 <li><a href="../media/news.php">News Highlights</a></li>
+					 <li><a href="../media/gallery.php">Photo Gallery</a></li>
+					 <li><a href="../media/video.php">Video Gallery</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../media/corpimage.php">Corporate Images</a></li>
+					 <li><a href="../media/contact.php">Media Contact</a></li>
+				  </ul>
+				</div>
+					</div>
+			 </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Our Business</a>
+         	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subBusiness">
+				  <ul>
+					 <li><a href="../business/business.php">Business Review</a></li>
+					 <li><a href="../business/service.php">Products & Services</a></li>
+					 <li><a href="../business/networks.php">Networks & Technologies</a></li>
+				  </ul>
+				</div>
+				</div>
+            </div>
+         </li>     
+	</ul>
+</div>			  <div class="clear"></div>
+		  </div>
+		  <div class="clear"></div>
+      </div>
+</div>
+   
+     <div class="subBanner img3"></div>
+   <div class="fullWidth">
+   	<div class="row">
+    	<div class="titleWrapper">
+            <div class="title">News Highlights</div>
+         </div>
+    </div>
+    <div class="yearWrapper">
+    <div class="row">
+    	 <div class="yearBar">
+             <a class="yearPrev" href="javascript:void(0);"></a>
+             <a class="yearNext" href="javascript:void(0);"></a>
+                 <div class="yearNav">        
+                 	<div ><a href="?year=2020&scroll2title=1" id="year2020">2020</a></div><div ><a href="?year=2019&scroll2title=1" id="year2019">2019</a></div><div ><a href="?year=2018&scroll2title=1" id="year2018">2018</a></div><div ><a href="?year=2017&scroll2title=1" id="year2017">2017</a></div><div ><a href="?year=2016&scroll2title=1" id="year2016">2016</a></div><div ><a href="?year=2015&scroll2title=1" id="year2015">2015</a></div><div ><a href="?year=2014&scroll2title=1" id="year2014">2014</a></div><div ><a href="?year=2013&scroll2title=1" id="year2013">2013</a></div><div ><a href="?year=2012&scroll2title=1" id="year2012">2012</a></div><div ><a href="?year=2011&scroll2title=1" id="year2011">2011</a></div><div ><a href="?year=2010&scroll2title=1" id="year2010">2010</a></div><div ><a href="?year=2009&scroll2title=1" id="year2009">2009</a></div><div ><a href="?year=2008&scroll2title=1" id="year2008">2008</a></div><div ><a href="?year=2007&scroll2title=1" id="year2007">2007</a></div><div ><a href="?year=2006&scroll2title=1" id="year2006">2006</a></div><div ><a href="?year=2005&scroll2title=1" id="year2005">2005</a></div><div ><a href="?year=2004&scroll2title=1" id="year2004">2004</a></div><div ><a href="?year=2003&scroll2title=1" id="year2003">2003</a></div><div ><a href="?year=2002&scroll2title=1" id="year2002">2002</a></div><div class="act"><a href="?year=2001&scroll2title=1" id="year2001"class="act">2001</a></div>                 </div>
+         </div>
+         </div>
+    </div>
+   </div>
+   <div class="contentWrapper">
+      <div class="row news">
+         <!-- Content Area Start-->
+
+         <div class="bubbleWrapper">
+
+			    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Limited is pleased to have received, for the second time in two years, recognition as the "Top Value Creator in Asia" in the Performance 100 Awards 2001, by the renowned financial journal "CFO Asia", published by the Economist Group.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">18 Oct 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>The RMB 5 Billion guaranteed bonds due in 2011 issued on 18 June 2001 in China's domestic market by Guangdong Mobile Communication Company Limited, a wholly-owned subsidiary of China Mobile (Hong Kong) Limited, will commence trading on 23 October 2001 on the Shanghai Stock Exchange (Securities Code:120101). For details about the bond issue, please see the Company's announcements dated 30 May 2001 and 15 June 2001.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">18 Oct 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>Following the successful investment analyst trip early this year, CMHK has organized the second analyst tour to Beijing to meet with the Ministry of Information Industry of China ("MII"), China Mobile Communications Group Co., Ltd. and Beijing Mobile Communication Company Limited on 28 September 2001. At the meetings, MII officials and management of the mobile companies discussed with the analysts the latest development of mobile industry and market in China. The trip ended after a visit to a major sales center of Beijing Mobile in Beijing downtown.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">09 Oct 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>On 9 July, 2001, China Mobile (Hong Kong) Limited and China Mobile Communications Group Co., Ltd. jointly started a commercial trial service of GPRS in 25 cities in 16 provinces of mainland China (including 22 cities within CMHK's service areas), with a current capacity of 400,000 users. A total of 2,900 users have volunteered to participate in the trial service. It is anticipated that the current commercial trials will run for about 2 months.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">16 Jul 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Ltd was ranked top in this year's Business Week list of the largest emerging market companies by market capitalization.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">09 Jul 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>As of the end of May, 2001, the Company's total number of subscribers reached 56.6 million, representing an aggregate net addition of approximately 11.5 million for the first five months of this year. Of all subscribers, nearly 290,000 have chosen to use tariff package plan.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">12 Jun 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Limited was ranked fifth in the Information Technology100 by BusinessWeek. The ranking was based on several criteria that were given equal weight including revenues, revenue growth, return on equity and shareholder return.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">11 Jun 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Limited is pleased to be awarded "Best Investor Relations for an IPO" and "Best IR by a Mainland Chinese Company" in the Asia Awards 2001 by a reputable magazine "Investor Relations".</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">24 May 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>In view of the rapid development of Internet and its wide-ranging effects, ITU members have selected "the Internet: challenges, opportunities and prospects", as the theme for this year's World Telecommunication Day (17/5/2001). Some of our operating subsidiaries also echo the theme and have prepared a series of marketing activities for the new mobile services such as mobile stock trading, SMS for prepaid users and OICQ etc, to promote the use of wireless data communication and to enhance the brand name of the Company's mobile internet business - Monternet.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">17 May 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>Initial market response to new tariff package plans. Since 21 March, 2001, some of the Company's operating subsidiaries started launching tariff package plans. As of 20 April, the tariff package plan subscribers exceeded 90,000, among which nearly half of them chose the Rmb98/170min option.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">15 May 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>Subscriber base reached 53.68mn in April. As of 20 April 2001, the Company's total number of subscribers reached 53.68mn, representing a net addition of 8.54mn for the first four months of this year.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">15 May 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>Circular for Connected Transactions Waiver Application.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">14 May 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Limited is pleased to be awarded "Best Managed Company", " Best CFO" and "Best in Investor Relations" in China in the" Asia's Best Companies 2001" survey conducted by FinanceAsia. See details in Industry and CMHK News.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">20 Apr 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) entered into Conduit Leasing Agreements.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">21 Mar 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>The Company is pleased to announce that the total number of subscribers of the Group has exceeded 50 million threshold by the end of February 2001.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">05 Mar 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Limited is pleased to be awarded "Overall Best Managed Company in China 2000" by a renowned financial journal, "asiamoney", on 22 February 2001.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">23 Feb 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Limited is pleased and honoured to be awarded "Best Asian Equity Issue" for the year 2000 by a renowned financial journal, EuroWeek.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">06 Feb 2001</div>
+                   </div>
+                </div>
+    
+                <div class="row clearfix">
+                    <div class="bubbleContainer">
+                        <div class="bubble">
+                            <p>China Mobile (Hong Kong) Limited is pleased and honoured to be presented by two renowned financial journals, Financial Intelligence Asia and Financial Technology Asia today with two awards, "Equity Issuer of the Year" and "Issuer of the Year-Telecoms" for the year 2000, respectively.</p>
+                        </div>
+                        <div class="bubbleTail"></div>
+                        <div class="bubbleDate">02 Feb 2001</div>
+                   </div>
+                </div>
+    
+            
+         </div>
+      </div>
+   </div>
+   
+<div class="sitemapWrapper">
+      <div class="row">
+      	<div class="breadCrumb">
+			<img src="../images/global/icon_logo.png" alt=""/ ><a href="../global/home.php">Home</a>
+            <img src="../images/global/breadcrumb_arrow.png" class="arrow"> Media Centre
+<img src="../images/global/breadcrumb_arrow.png" class="arrow"> News Highlights
+        </div>
+        <div class="sitemapContainer">
+        <div class="item">
+        	<div class="title">About China Mobile</div>
+            <ul class="sitemap">
+            	 <li><a href="../about/overview.php">Overview</a></li>
+                 <li><a href="../about/chairman.php">Chairman's Statement</a></li>
+                 <li><a href="../about/directors.php">Board of Directors and Senior Management</a></li>
+                 <li><a href="../about/milestones.php">Milestones</a></li>
+                 <li><a href="../about/awards.php">Recognition & Awards</a></li>
+                 <li><a href="../about/rating.php">Credit Ratings</a></li>
+                 <li><a href="../about/cg.php">Corporate Governance</a></li>
+                 <li><a href="../about/sd.php">Sustainable Development</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <div class="item">
+        	<div class="title">Investor Relations</div>
+            <ul class="sitemap">
+            	 <li><a href="../ir/operation_m.php">Monthly Customer Data</a></li>
+            	 <li><a href="../ir/operation_q.php">Key Operation Data</a></li>
+            	 <li><a href="../ir/financial.php">Financial Review</a></li>
+                 <li><a href="../ir/reports.php">Financial Reports</a></li>
+                 <li><a href="../ir/webcasts.php">Presentations / Webcasts</a></li>
+                 <li><a href="../ir/announcements.php">Announcements</a></li>
+                 <li><a href="../ir/sec.php">US SEC Filings</a></li>
+                 <li><a href="../ir/circulars.php">Circulars & Other Documents</a></li>
+                 <li><a href="../ir/corpactions.php">Corporate Actions</a></li>
+                 <li><a href="../ir/stockquote.php">Shareholders Service</a></li>
+                 <li><a href="../ir/ircalendar.php">IR Calendar</a></li>
+                 <li><a href="../ir/analyst.php">Analyst Coverage</a></li>
+                 <li><a href="../ir/faq.php">FAQs</a></li>
+                 <li><a href="../ir/ircontact.php">IR Contact</a></li>
+            </ul>
+        </div>
+        <div class="item">
+        	<div class="title">Media Centre</div>
+            <ul class="sitemap">
+            	 <li><a href="../media/press.php">Press Releases</a></li>
+                 <li><a href="../media/news.php">News Highlights</a></li>
+                 <li><a href="../media/gallery.php">Photo Gallery</a></li>
+                 <li><a href="../media/video.php">Video Gallery</a></li>
+                 <li><a href="../media/corpimage.php">Corporate Images</a></li>
+                 <li><a href="../media/contact.php">Media Contact</a></li>
+            </ul>
+        </div>
+        <div class="item">
+        	<div class="title">Our Business</div>
+            <ul class="sitemap">
+            	 <li><a href="../business/business.php">Business Review</a></li>
+                 <li><a href="../business/service.php">Products & Services</a></li>
+                 <li><a href="../business/networks.php">Networks & Technologies</a></li>
+            </ul>
+        </div>
+		  </div>
+        <div class="item tools">
+        	<div class="title">Tools</div>
+            <ul class="sitemap">
+            	                  <li><a href="../global/rss.php">RSS Feeds</a></li>
+                 <li><a href="#" class="print">Print this Page</a></li>
+                 <li><a href="#" class="bookmark">Add to Favourites</a></li>
+                 <li><a href="../webform/emailpage.php?page=https://www.chinamobileltd.com/en/media/news.php" id="emailpage" >Email this Page</a></li>               
+                 <li><a href="#" class="addthis_button">Share this Page</a></li>
+                 <li><a href="../download/index.php">Download Centre</a></li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+   </div>
+   </div>
+   <div class="footerWrapper">
+      <a href="#" class="backToTop"></a>
+      <div class="row">
+		  <div class="copyright">&copy; Copyright 2020 China Mobile Limited. <span>All rights reserved. <a href="../global/termsofuse.php"><span class="bold">Website Terms of Use</span></a></span></div>
+         <div class="footerLang">Language: <a href="javascript:changeLanguage('en');" class="langBtn_en">English</a>  |  <a href="javascript:changeLanguage('tc');" class="langBtn_tc">繁體</a>  |  <a href="javascript:changeLanguage('sc');" class="langBtn_sc">简体</a></div>
+      </div>
+   </div></div>
+<script type="text/javascript" src="../../js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="../../js/fancybox/jquery.fancybox.js?v=2.1.5.js"></script>
+<script type="text/javascript" src="../../js/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="../../js/highcharts.js"></script>
+<script type="text/javascript" src="../../js/exporting.js"></script>
+<script type="text/javascript" src="../../js/jquery.appear.js"></script>
+<script type="text/javascript" src="../../js/en/chart_common.js"></script>
+
+<script type="text/javascript" src="../../js/slick/slick.min.js"></script>
+<script type="text/javascript" src="../../js/magnific.js"></script>
+<script type="text/javascript" src="../../js/jquery.responsiveTabs.min.js"></script>
+<script type="text/javascript" src="../../js/common.js"></script>
+<script language="javascript" type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script>
+
+
+<script type="text/javascript">
+$(function(){
+	var index = $("#year2001").parent("div").index();
+	$(".yearNav, .milesNav").slick("slickGoTo",index,true);
+});
+</script>
+
+
+<script type="text/javascript">
+//$(function(){
+	//console.log($(".title:first").offset().top);
+	//var scrollPoint = $(".title:first").offset().top-$(".headerWrapper:first").height();
+	var scrollPoint = $(".yearBar:first").offset().top-$(".headerWrapper:first").height();
+	//console.log(scrollPoint);
+	$(document).scrollTop(scrollPoint);
+//});
+</script>
+<script>
+
+</script>
+</body>
+</html>
