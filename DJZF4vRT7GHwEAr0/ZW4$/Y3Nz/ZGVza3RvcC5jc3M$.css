@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+@media (min-width: 1024px){
+	/* Global */
+	.header .topIcon li.hamburger{ display:none;}
+	.header .logo img{width:190px; margin: 31px 0 0 0; height: 43px;}
+
+	.topnavWrapper .row, .footerWrapper .row{ max-width:1200px;}
+
+	
+	.footerLang{ display:block;}
+	.fullWidth .titleWrapper{ height:245px; font-size:43px;}
+	.fullWidth .titleWrapper .title{background-position: center 170px;}
+	.subTitleWrapper{ height:95px;}  
+	.navControl{ display:block;}
+	.topnavWrapper { float: right; width: 660px; position: static; height: inherit;}
+	.topnavWrapper ul.topnav li{ float: left; line-height: 106px; background: none; border-bottom: none;}
+	.topnavWrapper ul.topnav li a{ padding: 0 23px; color: #666666;}
+	.topnavWrapper .subnav{position: absolute; width: 100%; background:url(../images/global/subnavBg.jpg) no-repeat; background-size: cover; height: 180px; left: 0; border-top: 5px solid #008ed4;padding: 25px 0 30px 0; display: none;}
+	.topnavWrapper ul.topnav li:hover a{ color:#5e9d0a;}
+	.topnavWrapper ul.topnav li.act a{ color: #ffffff;}
+	.topnavWrapper .subAbout ul, .topnavWrapper .subMedia ul, .topnavWrapper .subIr ul{ float:left;}
+	.topnavWrapper .subAbout{ float: right; width: 655px; margin-right: 119px;}
+	.topnavWrapper .subIr{ float: right; width: 900px; margin-right: 70px;}
+	.topnavWrapper .subBusiness{ float: right; margin-right: 45px;}
+	.topnavWrapper .subMedia{ float: right; margin-right: 78px;}
+	#tools-popup ul.tools li.print, #tools-popup ul.tools li.bookmark{ display:block; width: 100px;}
+	
+	/* Home */
+	.homeBanner{ height:586px; width:100%;}
+	.homeBanner01a, .homeBanner01b{ height:586px; background-size:auto;}
+	.homeBanner .banner01, .homeBanner .banner02, .homeBanner .banner03, .homeBanner .banner04, .homeBanner .banner05, .homeBanner .bannerCny{ height:586px;}
+	.homeBanner .longText {font-size:20px; line-height:22px;}
+	.homeContent .row, .contentWrapper .row, .fullWidth .row{ max-width:1200px;}
+	.homeLeftDiv{ float:left; width:60%;}
+	.homeRightDiv{ float:right; width:40%; padding-left:20px;}
+	
+	.homenewsBox{ margin-left:110px;}
+	.homenewsBox:first-child .newsContent{ background: #f3f3f3; }
+	.homenewsBox:first-child .newsContent a{ color: #008ed4;} 
+	.homenewsBox:first-child .newsBoxTail{background: rgba(0, 0, 0, 0) url("../images/global/boxTailright.png") no-repeat scroll 0 0;}
+	.contentPage .subBanner{ height:550px;}
+	.squareSize{ width:180px; height:180px;}
+	.recSize{ width:280px;}
+	.squareGroup .slick-slide img{ margin:20px 0 5px 0;}
+	.homeReport section{ width:50%; float:left;}
+	.homeReport section .report{ margin-left:0;}
+	.findataGroup .lightBlueBg .dataNum, .findataGroup .lightGreenBg .dataNum, .findataGroup .lightRedBg .dataNum{ width:190px; background-size:180px 109px;}
+	.homeVideo .recSize{ text-align: right; padding-top: 35px;}
+	.homeReport .inline{ display:block;}
+	
+	#homeresult-popup .homeResultImg, #homeresult-popup .homeResultLink{ display:table-cell; vertical-align: top;}
+	#homeresult-popup .homeResultImg{ padding-right:50px; }
+	#homeresult-popup .homeResultImg img{ width:inherit; height: auto;}
+
+	
+
+	
+
+
+	/* footer */
+	.sitemapWrapper{ background:#f9f9f9; padding:25px 0 70px 0; display:block;}
+	.sitemapWrapper .row{ max-width:1200px; width:100%;}
+	.sitemapWrapper .breadCrumb{ margin-bottom:35px; vertical-align:middle; font-size:17px;}
+	.sitemapWrapper .breadCrumb img{ vertical-align:middle; margin-right:20px;}
+	.sitemapWrapper .breadCrumb .arrow{ margin:0 5px;}
+	.sitemapWrapper .item{ float:left;width:20%;}
+	.sitemapWrapper .item .title{ font-size:17px; margin-bottom:14px;}
+	.sitemapWrapper .item.tools{  border-left: 1px solid #ebebeb; padding-left:30px; min-height: 440px; height: 100%;}
+	ul.sitemap li{ margin-bottom:14px;}
+	ul.sitemap li a{ color:#666666; font-size:13px;}
+	ul.sitemap li a:hover{ color:#879D0A;}
+	.sitemapContainer{ border-right: 1px solid #ebebeb;}
+	
+	/* About */
+	/*.chairmanStatements div.chairmanImg { float:right; text-align:left; margin:0px 0px 10px 0px }
+	.chairmanStatements div.intro { float:left; width: calc(100% - 420px); }
+	.chairmanStatements img { margin:inherit; }*/
+	.chairmanBanner{ height:502px;}
+	.chairmanBanner img{ right:110px;}
+	.chairmanStatements p.blueText { line-height:30px; font-size:18px; }
+	.sdreport img{ width:80%; height:auto;}
+	.sdreport .cover, .sdreport .content{ display:table-cell;}
+	
+	.directorWrapper li{ width:31%;}
+
+	.directors .col-100{ padding:30px 0;}
+	.directors .col-30{ width:30%; display:table-cell; font-size:21px; }
+	.directors .col-70{ width:70%; display:table-cell; font-size:21px; }
+
+	
+	/* Content Global */
+	.sdyearWrapper a.yearPrev, .sdyearWrapper a.yearNext{ top:90px;}
+	a.yearPrev, a.yearNext{ top:75px;}
+	.yearNav div{ height:270px;}
+	.iconNav div{ height:370px;}
+	.yearNav a, .iconNav a{ width:180px; height:180px;  line-height:172px; font-size:42px;}
+	.cgNav a{ font-size:24px;}
+	.sdNav a{ width:240px; height:240px; font-size:24px; line-height:32px; }
+	.sdNav div{height:350px;}
+	.sdNav div span{ height:240px;}
+	.milestones div span, .reportNav div span, operationNav div:last-child span{height:180px;}
+	.yearNav.milestones a, .yearNav.reportNav a, .yearNav .operationNav.div a:last-child{ line-height: inherit; font-size:32px;}
+	
+	.yearNav span{ display:table-cell; text-align: center; width: 170px; color: #ffffff; vertical-align: middle; line-height: 45px; height: 180px;}
+	
+	.bubbleContainer{ width:90%;}
+	.bubbleWrapper .row:nth-child(odd) .bubbleContainer{ float:left;}
+	.bubbleWrapper .row:nth-child(odd) .bubbleContainer .bubbleTail{ left:0; background: url(../images/global/boxTailleft.png)}
+	.bubbleWrapper .row:nth-child(odd) .bubbleContainer .bubble{margin-left:21px;}
+	.bubbleWrapper .row:nth-child(odd) .bubbleContainer .bubbleDate{ float:left; margin:10px 0 0 26px;}
+	
+	
+	/* IR */
+	.reportItem{  text-align:center; width: 33%; height:450px; margin-bottom: 0px;}
+	.reportItem img{ width:auto; height:auto;}
+	.reportItem .bysection, .sdreport .bysection{ font-size:20px;}
+	.reportItem .title{ height:80px;}
+	.reportWrapper{background: url(../images/ir/report_bottom.png) no-repeat; background-position: bottom; padding-bottom:75px; display: -webkit-flex;
+   display: flex;}
+	.presentationWrapper .cover{ padding:40px 30px 60px 70px; width:450px;}
+	.presentationWrapper .cover, .presentationWrapper .content{ display: table-cell;}
+	.presentationWrapper .cover img{ width:100%;}
+	
+	.shareinfo .col-100{ padding:30px 0;}
+	.shareinfo .col-30{ width:30%; display:table-cell; font-size:21px; }
+	.shareinfo .col-70{ width:70%; display:table-cell; font-size:21px; }
+	
+	.monthWrapper .row a{ font-size:36px;}
+	
+	/* Media */
+	.news .bubbleContainer{ width:75%;}
+	
+	/* Download Center */
+	.downCenter .annual .secitem a, .downCenter .interim .secitem a{ font-size:48px; background-size: 60px 60px;}
+	.downCenter .presentations .secitem a{ font-size:36px; background-size: 60px 60px;}
+	.mfp-content h1{ margin-bottom:20px; font-size: 24px; line-height: 24px;}
+	
+}
+@media (min-width: 1200px){
+	/* Global */
+	.header .logo img{width:280px; margin: 20px 0 0 0; height: 64px;}
+	.homeLeftDiv{ float:left; width:68%;}
+	.homeRightDiv{ float:right; width:32%; padding-left:0;}
+	
+	.squareSize{ width:196px; height:196px;}
+	.recSize{ width:310px;}
+	.squareGroup .slick-slide img{margin:30px 0 5px 0;}
+
+	
+	/* Home */
+	.homeReport section{ width:50%; float:left;}
+	.homeReport section .report{ margin-left:115px;}
+	.findataGroup .lightBlueBg .dataNum, .findataGroup .lightGreenBg .dataNum, .findataGroup .lightRedBg .dataNum{ width:196px; background-size:196px 109px;}
+	.homeReport .inline{ display:inline-block;}
+	
+	/* Content Global */
+	.squareGroup, .recGroup, .findataGroup{ margin:0 0 0 100px;}
+	.sdyearWrapper a.yearPrev, .sdyearWrapper a.yearNext{ top:115px;}
+	.monthWrapper .row a{ font-size:42px;}
+	a.yearPrev, a.yearNext{ top:80px;}
+	.sdNav a{ width:283px; height:283px; font-size:28px; line-height:36px; }
+	.sdNav div{height:390px;}
+	.sdNav div span{ height:283px;}
+
+	
+	/* footer */
+	ul.sitemap li a{ font-size:15px;}
+	
+	/* About */
+	.chairmanBanner img{right:173px;}
+	.sdreport img{ width:100%; height:auto;}
+	.directorWrapper .name{ font-size:26px;}
+	
+	
+}
+
