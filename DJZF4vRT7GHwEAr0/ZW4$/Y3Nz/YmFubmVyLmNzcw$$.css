@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+.homeBanner{ display:none !important;}
+.slick-initialized{ display:block;}
+
+
+.homeslide{ position:relative; height: 230px; width: 100%; overflow: hidden;}
+.homeslide .row{ max-width:1200px;}
+
+.homebanner01 .bg{ position: absolute; left: 0; right: 0; margin: auto;
+	transition:transform 6s linear;
+	background: url(../images/banner/homeslideBg01.jpg) no-repeat;
+	width: 100%; height: 430px;
+	background-size:auto;
+	bottom:-100px;
+	background-position: center;
+}
+.homebanner02 .bg{ position: absolute;  left: 0; right: 0;
+	-o-transition:all 6s ease-in-out;
+	-webkit-transition:all 6s ease-in-out;
+	-moz-transition:all 6s ease-in-out;
+	transition:all 6s ease-in-out;
+	background: url(../images/banner/homeslideBg02.jpg) no-repeat;
+	background-position: center;
+	width: 100%; height: 630px;
+	top:-100px;
+
+}
+.homebanner01 .bg.animate{-webkit-transform: translateY(-100px); transform: translateY(-100px); transition:transform 6s linear; will-change: transform;}
+.homebanner02 .bg.animate{ transition:6s; top: 0;}
+.homeslide .bubble.animate{
+	animation: opacitybox 3s 6s forwards;
+}
+.homeslide .slogan.animate{animation: opacitybox 3s  2s forwards;}
+.homeslide .slogan{background:url(../images/banner/slogan.png) no-repeat; background-position: center; width: 100%; height:230px; z-index: 49; position: absolute; background-size: 700px auto; opacity: 0;}
+.homeslide .bubble{ width: 220px; border-radius: 6px; padding: 10px; position: absolute; z-index: 50; top:120px; /* top:130px; */left: 20px; color: #ffffff; font-size: 12px; opacity: 0;}
+.homeslide .bubble .news-close{left: 10px; top: -10px;  z-index: 60; width: 100%; position: absolute; text-align: right;}
+.homeslide .bubble .news-close img{float: right;}
+
+.homeslide .shortText{ text-align:center; font-size: 18px;}
+.homeslide .awards{ background:url(../images/banner/homeAwards.png) no-repeat; background-position: center; width: 100%; height:230px; z-index: 51; position: absolute; background-size: 700px auto;}
+.homeBannerWrapper .bubble .result-popup{width:100%; height: 100%; display: inline-block; position: absolute; left: 0; top: 0; z-index: 1;}
+
+@-webkit-keyframes opacitybox {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@-moz-keyframes opacitybox {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@-o-keyframes opacitybox {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes opacitybox {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.mobile-banner{display:block; height: 230px;}
+.mobile-banner .mobilebanner01{background: url(../images/banner/mobileBG01.jpg) no-repeat; background-size: cover; background-position: center; height: 230px;}
+.mobile-banner .mobilebanner02{background: url(../images/banner/mobileBG02.jpg) no-repeat; background-size: cover; background-position: center; height: 230px;}
+.mobile-banner .bubble.animate{animation: opacitybox 3s 2s forwards;}
+.mobile-banner .bubble{ width: 220px; border-radius: 6px; padding: 10px; position: absolute; z-index: 50; top:120px; /* top:130px; */left: 20px; color: #ffffff; font-size: 12px; opacity: 0;}
+.mobile-banner .bubble .news-close{left: 10px; top: 0px;  z-index: 60; width: 100%; position: absolute; text-align: right;}
+.mobile-banner .bubble .news-close img{float: right;}
+
+@media (min-width: 768px){
+	.homeBanner{ display:block !important;}
+	.mobile-banner{display:none;}
+	.homeslide{ height: 450px;}
+	.homeslide .slogan{height:450px; background-size: 1200px auto; background-position: center;}
+	.homeslide .bubble{ width: 480px; top:290px; right: 50px; font-size: 18px; border-radius: 10px; padding: 20px;}
+	.homebanner01 .bg{ height: 650px;  background-size:auto;  background-position: center;}
+	.homeslide .awards{ height:450px; background-size: 1400px auto;}
+	.homebanner02 .bg{height: 786px;}
+	.homeslide .shortText{ text-align:center; font-size: 30px;}
+	.homeslide .longText{ line-height:30px; }
+}
+
+@media (min-width: 1024px){
+	.homeslide{ height: 586px;}
+	.homeslide .slogan{height:586px; background-size: auto; background-position: -435px 0;}
+	/*.homeslide .bubble{ width: 580px; top:375px; left: 0px;}*/
+	.homeslide .bubble{ width: 550px; top:375px; /*left: 650px;*/}
+	.homebanner01 .bg{ height: 786px; background-size:auto;  width: 100%; background-position: center;}
+	.homeslide .awards{ height:586px; background-size: auto;}
+	.homeslide .longText{ line-height:30px; }
+}
+
+@media (min-width: 1200px){
+	.homeslide .slogan{ background-position: -420px 0;}
+}
+
