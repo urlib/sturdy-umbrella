@@ -1,0 +1,500 @@
+<!doctype html>
+<html>
+<head>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png"  href="/apple-touch-icon.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<title>China Mobile Limited - Investor Relations &gt; Key Operation Data</title>
+<link href="../css/fonts.css" rel="stylesheet" type="text/css">
+<link href="../css/reset.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link href="../css/tablet.css" rel="stylesheet" type="text/css">
+<link href="../css/desktop.css" rel="stylesheet" type="text/css">
+<link href="../../js/slick/slick.css" rel="stylesheet" type="text/css">
+<link href="../css/style1.css" rel="stylesheet" type="text/css">
+<link href="../css/style2.css" rel="stylesheet" type="text/css">
+<link href="../css/magnific-popup.css" rel="stylesheet" type="text/css">
+<link href="../css/responsive-tabs.css" rel="stylesheet" type="text/css">
+<link href="../../js/fancybox/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css">
+<link href="../css/print.css" rel="stylesheet" type="text/css"></head>
+
+<body class="contentPage">
+
+<div class="wrapper">
+   <div class="headerWrapper">
+     <div id="search-popup" class="mfp-hide search">
+		 <h1>Search</h1>
+		 <div class="search-container">
+			<form method="get" action="../global/search.php">
+		 	<input type="text" id="search" value="" name="q" id="q"   placeholder="Search">
+			<span><input type="image" src="../images/global/searchicon.svg" width="100px" height="40px" alt="submit" style="margin-bottom:5px;"></span>
+			</form>
+			
+			
+			
+		 </div>
+	 </div>
+     <div id="tools-popup" class="mfp-hide">
+		 <h1>Tools</h1>
+		 <div class="search-container">
+		 <ul class="tools">
+			                  <li><a href="../global/rss.php"><div class="icon"><img src="../images/global/icon_rss.png" alt=""/></div>RSS Feeds</a></li>
+                 <li class="print"><a href="#"><div class="icon"><img src="../images/global/icon_print.png" alt=""/></div>Print this Page</a></li>
+                 <li class="bookmark"><a href="#" class="bookmark"><div class="icon"><img src="../images/global/icon_add.png" alt=""/></div>Add to Favourites</a></li>
+                 <li><a href="../webform/emailpage.php?page=https://www.chinamobileltd.com/en/ir/operation_q.php" id="emailpage" ><div class="icon"><img src="../images/global/icon_email.png" alt=""/></div>Email this Page</a></li>
+                 <li><a href="#" class="addthis_button"><div class="icon"><img src="../images/global/icon_share.png" alt=""/></div>Share this Page</a></li>
+                 <li><a href="../download/index.php"><div class="icon"><img src="../images/global/icon_downloadtools.png" alt=""/></div>Download Centre</a></li>
+                 <div class="clear"></div>
+            </ul>
+		 </div>
+	 </div>
+     <div id="language-popup" class="mfp-hide">
+		 <h1>Language</h1>
+		 <div class="search-container">
+			 <div><a href="javascript:changeLanguage('en');" class="act">EN</a>  <a href="javascript:changeLanguage('tc');">繁體</a>  <a href="javascript:changeLanguage('sc');">简体</a> </div>
+		 </div>
+	 </div>
+      <div class="row header">
+		  <div class="fleft">
+			  <div class="logo"><a href="../global/home.php"><img src="../images/global/logo.svg" alt=""/></a></div>
+		  </div>
+		  <div class="fright">
+		  	  
+			  <div class="topIcon">
+			  	<ul>
+				   <li><a href="#search-popup" class="maintools-popup"><img src="../images/global/icon_search.svg" alt=""/></a></li>
+				   <li><a href="#tools-popup" class="maintools-popup"><img src="../images/global/icon_tools.svg" alt=""/></a></li>
+				   <li><a href="#language-popup" class="maintools-popup"><img src="../images/global/icon_language.svg" alt=""/></a></li>
+				   <li class="hamburger"><a href="javascript:void(0);" onclick="openNav()"><img src="../images/global/icon_hamburger.svg" alt=""/></a></li>
+				</ul>
+			  </div>
+			  <div class="topnavWrapper navControl">
+	<ul class="topnav">
+        <li class=""><a href="javascript:void(0);">About China Mobile</a>
+        	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subAbout">
+				  <ul>
+					 <li><a href="../about/overview.php">Overview</a></li>
+					 <li><a href="../about/chairman.php">Chairman's Statement</a></li>
+					 <li><a href="../about/directors.php">Board of Directors and Senior Management</a></li>
+					 <li><a href="../about/milestones.php">Milestones</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../about/awards.php">Recognition & Awards</a></li>
+					 <li><a href="../about/rating.php">Credit Ratings</a></li>
+					 <li><a href="../about/cg.php">Corporate Governance</a></li>
+					 <li><a href="../about/sd.php">Sustainable Development</a></li>
+				  </ul>
+				</div>
+				</div>
+            </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Investor Relations</a>
+         	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subIr">
+				  <ul>
+					 <li><a href="../ir/operation_m.php">Monthly Customer Data</a></li>
+					 <li><a href="../ir/operation_q.php">Key Operation Data</a></li>
+					 <li><a href="../ir/financial.php">Financial Review</a></li>
+					 <li><a href="../ir/stockquote.php">Shareholders Service</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../ir/reports.php">Financial Reports</a></li>
+					 <li><a href="../ir/webcasts.php">Presentations / Webcasts</a></li>
+				  </ul>
+					<ul>
+					 <li><a href="../ir/announcements.php">Announcements</a></li>
+					 <li><a href="../ir/sec.php">US SEC Filings</a></li>
+					 <li><a href="../ir/circulars.php">Circulars & Other Documents</a></li>
+					 <li><a href="../ir/faq.php">FAQs</a></li>
+					</ul>
+					<ul>				 
+					 <li><a href="../ir/corpactions.php">Corporate Actions</a></li>
+					 <li><a href="../ir/ircalendar.php">IR Calendar</a></li>
+					 <li><a href="../ir/analyst.php">Analyst Coverage</a></li>
+		             <li><a href="../ir/ircontact.php">IR Contact</a></li>
+					</ul>
+				</div>
+				</div>
+            </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Media Centre</a>
+        		<div class="subnav">
+          	  <div class="row">
+         		<div class="subMedia">
+				  <ul>
+					 <li><a href="../media/press.php">Press Releases</a></li>
+					 <li><a href="../media/news.php">News Highlights</a></li>
+					 <li><a href="../media/gallery.php">Photo Gallery</a></li>
+					 <li><a href="../media/video.php">Video Gallery</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../media/corpimage.php">Corporate Images</a></li>
+					 <li><a href="../media/contact.php">Media Contact</a></li>
+				  </ul>
+				</div>
+					</div>
+			 </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Our Business</a>
+         	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subBusiness">
+				  <ul>
+					 <li><a href="../business/business.php">Business Review</a></li>
+					 <li><a href="../business/service.php">Products & Services</a></li>
+					 <li><a href="../business/networks.php">Networks & Technologies</a></li>
+				  </ul>
+				</div>
+				</div>
+            </div>
+         </li>     
+	</ul>
+</div>			  <div class="clear"></div>
+		  </div>
+		  <div class="clear"></div>
+      </div>
+</div>
+   
+     <div class="subBanner img2"></div>
+   <div class="fullWidth">
+   	<div class="row">
+    	<div class="titleWrapper">
+            <div class="title">Key Operation Data</div>
+         </div>
+    </div>
+    <div class="monthWrapper">
+    	<div class="row">
+			<a href="operation_q.php?scroll2title=1" class="act">Quarterly</a>
+			<a href="operation_y.php?scroll2title=1">Yearly</a>
+		</div>
+    </div>
+    <div class="highlightWrapper">
+	<div class="row">
+        <div id="opChart_q1" class="opChart"></div>
+        <div id="opChart_q2" class="opChart"></div>
+        <div id="opChart_q3" class="opChart"></div>
+    </div>
+</div>
+    <div class="yearWrapper">
+    <div class="row">
+    	 <div class="yearBar">
+             <a class="yearPrev" href="javascript:void(0);"></a>
+             <a class="yearNext" href="javascript:void(0);"></a>
+                 <div class="yearNav">  
+                 	<div class="act"><a href="?year=2019&scroll2title=1" id="year2019" class="act">2019</a></div>
+                 	<div class=""><a href="?year=2018&scroll2title=1" id="year2018" class="">2018</a></div>
+                 	<div class=""><a href="?year=2017&scroll2title=1" id="year2017" class="">2017</a></div>
+                 	<div class=""><a href="?year=2016&scroll2title=1" id="year2016" class="">2016</a></div>
+                    <div class=""><a href="?year=2015&scroll2title=1" id="year2015" class="">2015</a></div>
+                    <div class=""><a href="?year=2014&scroll2title=1" id="year2014" class="">2014</a></div>
+                    <div class=""><a href="?year=2013&scroll2title=1" id="year2013" class="">2013</a></div>
+                    <div class=""><a href="?year=2012&scroll2title=1" id="year2012" class="">2012</a></div>
+					<div class=""><a href="?year=2011_3q&scroll2title=1" id="year2011_3q" class=""><span>2011<br/>3Q</span></a></div>
+					<div class=""><a href="?year=2011_1q&scroll2title=1" id="year2011_1q" class=""><span>2011<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2010_3q&scroll2title=1" id="year2010_3q" class=""><span>2010<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2010_1q&scroll2title=1" id="year2010_1q" class=""><span>2010<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2009_3q&scroll2title=1" id="year2009_3q" class=""><span>2009<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2009_1q&scroll2title=1" id="year2009_1q" class=""><span>2009<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2008_3q&scroll2title=1" id="year2008_3q" class=""><span>2008<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2008_1q&scroll2title=1" id="year2008_1q" class=""><span>2008<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2007_3q&scroll2title=1" id="year2007_3q" class=""><span>2007<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2007_1q&scroll2title=1" id="year2007_1q" class=""><span>2007<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2006_3q&scroll2title=1" id="year2006_3q" class=""><span>2006<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2006_1q&scroll2title=1" id="year2006_1q" class=""><span>2006<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2005_3q&scroll2title=1" id="year2005_3q" class=""><span>2005<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2005_1q&scroll2title=1" id="year2005_1q" class=""><span>2005<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2004_3q&scroll2title=1" id="year2004_3q" class=""><span>2004<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2004_1q&scroll2title=1" id="year2004_1q" class=""><span>2004<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2003_3q&scroll2title=1" id="year2003_3q" class=""><span>2003<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2003_1q&scroll2title=1" id="year2003_1q" class=""><span>2003<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2002_3q&scroll2title=1" id="year2002_3q" class=""><span>2002<br/>3Q</span></a></div>
+                    <div class=""><a href="?year=2002_1q&scroll2title=1" id="year2002_1q" class=""><span>2002<br/>1Q</span></a></div>
+                    <div class=""><a href="?year=2001_3q&scroll2title=1" id="year2001_3q" class=""><span>2001<br/>3Q</span></a></div>
+                 </div>
+         </div>
+         </div>
+    </div>
+   </div>
+   <div class="contentWrapper">
+      <div class="row">
+         <!-- Content Area Start-->
+           
+
+
+	 <div class="subTitleWrapper q">
+			   <div class="subTitleBg"><img src="../images/global/subtitleBg.png" alt=""/></div>
+			   <div class="subTitle">Selected Unaudited Key Performance Indicators</div>
+			</div>	
+			
+			
+            <div class="tableStyle01">
+				                <div class="tableExcel"><a href="operation/gen_excel_quarterly.php?year=2019" target="_blank"></a></div>
+				                <div class="clearfix"></div>
+
+			  
+							<div class="title">Financial Data</div>
+				<div class="clear"></div>
+						  
+           	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <thead>
+                  <tr>
+                  	 <th>&nbsp;</th>
+					 					 <th width="15%">2019/1Q</th>
+					 					 <th width="15%">2019/2Q</th>
+					 					 <th width="15%">2019/3Q</th>
+					                   </tr>
+                </thead>
+                <tbody>
+								<tr>
+					<th>Operating Revenue (RMB Billion)</th>
+										<td>185.0</td>
+										<td>204.4</td>
+										<td>177.3</td>
+									</tr>
+								<tr>
+					<th>Of which：Revenue from Telecommunications Services (RMB Billion)</th>
+										<td>165.9</td>
+										<td>185.5</td>
+										<td>161.6</td>
+									</tr>
+								<tr>
+					<th>EBITDA (RMB Billion)</th>
+										<td>72.7</td>
+										<td>78.4</td>
+										<td>74.4</td>
+									</tr>
+								<tr>
+					<th>Profit Attributable to Equity Shareholders (RMB Billion)</th>
+										<td>23.7</td>
+										<td>32.4</td>
+										<td>25.7</td>
+									</tr>
+					
+               </tbody>
+            </table>
+         </div>
+		 <p>&nbsp;</p>
+            <div class="tableStyle01">
+				                <div class="clearfix"></div>
+
+			  
+							<div class="title">Operating Data</div>
+				<div class="clear"></div>
+				<div class="subSubSubTitle">Mobile Business</div>
+				<div class="clear"></div>
+						  
+           	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <thead>
+                  <tr>
+                  	 <th>&nbsp;</th>
+					 					 <th width="15%">2019/1Q</th>
+					 					 <th width="15%">2019/2Q</th>
+					 					 <th width="15%">2019/3Q</th>
+					                   </tr>
+                </thead>
+                <tbody>
+								<tr>
+					<th>Total Customers (Million)</th>
+										<td>931</td>
+										<td>935</td>
+										<td>942</td>
+									</tr>
+								<tr>
+					<th>Net Additional Customers (Million)</th>
+										<td>6.32</td>
+										<td>3.66</td>
+										<td>6.98</td>
+									</tr>
+								<tr>
+					<th>4G Customers (Million)</th>
+										<td>723</td>
+										<td>734</td>
+										<td>747</td>
+									</tr>
+								<tr>
+					<th>Total Voice Usage (Billion Minutes)</th>
+										<td>790.4</td>
+										<td>822.2</td>
+										<td>818.1</td>
+									</tr>
+								<tr>
+					<th>Handset Data Traffic (Billion GB)</th>
+										<td>13.72</td>
+										<td>16.11</td>
+										<td>18.56</td>
+									</tr>
+								<tr>
+					<th>SMS Usage (Billion Messages)</th>
+										<td>166.2</td>
+										<td>220.1</td>
+										<td>230.9</td>
+									</tr>
+					
+               </tbody>
+            </table>
+         </div>
+		 <p>&nbsp;</p>
+            <div class="tableStyle01">
+				                <div class="clearfix"></div>
+
+			  
+							<div class="title">Operating Data</div>
+				<div class="clear"></div>
+				<div class="subSubSubTitle">Wireline Broadband Business</div>
+				<div class="clear"></div>
+						  
+           	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <thead>
+                  <tr>
+                  	 <th>&nbsp;</th>
+					 					 <th width="15%">2019/1Q</th>
+					 					 <th width="15%">2019/2Q</th>
+					 					 <th width="15%">2019/3Q</th>
+					                   </tr>
+                </thead>
+                <tbody>
+								<tr>
+					<th>Total Customers (Million)</th>
+										<td>167</td>
+										<td>175</td>
+										<td>185</td>
+									</tr>
+								<tr>
+					<th>Net Additional Customers (Million)</th>
+										<td>10.34</td>
+										<td>7.86</td>
+										<td>10.16</td>
+									</tr>
+					
+               </tbody>
+            </table>
+         </div>
+		 <p>&nbsp;</p>
+			
+			
+			
+			
+  
+      </div>
+   </div>
+   
+<div class="sitemapWrapper">
+      <div class="row">
+      	<div class="breadCrumb">
+			<img src="../images/global/icon_logo.png" alt=""/ ><a href="../global/home.php">Home</a>
+            <img src="../images/global/breadcrumb_arrow.png" class="arrow"> Investor Relations
+<img src="../images/global/breadcrumb_arrow.png" class="arrow"> Key Operation Data
+        </div>
+        <div class="sitemapContainer">
+        <div class="item">
+        	<div class="title">About China Mobile</div>
+            <ul class="sitemap">
+            	 <li><a href="../about/overview.php">Overview</a></li>
+                 <li><a href="../about/chairman.php">Chairman's Statement</a></li>
+                 <li><a href="../about/directors.php">Board of Directors and Senior Management</a></li>
+                 <li><a href="../about/milestones.php">Milestones</a></li>
+                 <li><a href="../about/awards.php">Recognition & Awards</a></li>
+                 <li><a href="../about/rating.php">Credit Ratings</a></li>
+                 <li><a href="../about/cg.php">Corporate Governance</a></li>
+                 <li><a href="../about/sd.php">Sustainable Development</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <div class="item">
+        	<div class="title">Investor Relations</div>
+            <ul class="sitemap">
+            	 <li><a href="../ir/operation_m.php">Monthly Customer Data</a></li>
+            	 <li><a href="../ir/operation_q.php">Key Operation Data</a></li>
+            	 <li><a href="../ir/financial.php">Financial Review</a></li>
+                 <li><a href="../ir/reports.php">Financial Reports</a></li>
+                 <li><a href="../ir/webcasts.php">Presentations / Webcasts</a></li>
+                 <li><a href="../ir/announcements.php">Announcements</a></li>
+                 <li><a href="../ir/sec.php">US SEC Filings</a></li>
+                 <li><a href="../ir/circulars.php">Circulars & Other Documents</a></li>
+                 <li><a href="../ir/corpactions.php">Corporate Actions</a></li>
+                 <li><a href="../ir/stockquote.php">Shareholders Service</a></li>
+                 <li><a href="../ir/ircalendar.php">IR Calendar</a></li>
+                 <li><a href="../ir/analyst.php">Analyst Coverage</a></li>
+                 <li><a href="../ir/faq.php">FAQs</a></li>
+                 <li><a href="../ir/ircontact.php">IR Contact</a></li>
+            </ul>
+        </div>
+        <div class="item">
+        	<div class="title">Media Centre</div>
+            <ul class="sitemap">
+            	 <li><a href="../media/press.php">Press Releases</a></li>
+                 <li><a href="../media/news.php">News Highlights</a></li>
+                 <li><a href="../media/gallery.php">Photo Gallery</a></li>
+                 <li><a href="../media/video.php">Video Gallery</a></li>
+                 <li><a href="../media/corpimage.php">Corporate Images</a></li>
+                 <li><a href="../media/contact.php">Media Contact</a></li>
+            </ul>
+        </div>
+        <div class="item">
+        	<div class="title">Our Business</div>
+            <ul class="sitemap">
+            	 <li><a href="../business/business.php">Business Review</a></li>
+                 <li><a href="../business/service.php">Products & Services</a></li>
+                 <li><a href="../business/networks.php">Networks & Technologies</a></li>
+            </ul>
+        </div>
+		  </div>
+        <div class="item tools">
+        	<div class="title">Tools</div>
+            <ul class="sitemap">
+            	                  <li><a href="../global/rss.php">RSS Feeds</a></li>
+                 <li><a href="#" class="print">Print this Page</a></li>
+                 <li><a href="#" class="bookmark">Add to Favourites</a></li>
+                 <li><a href="../webform/emailpage.php?page=https://www.chinamobileltd.com/en/ir/operation_q.php" id="emailpage" >Email this Page</a></li>               
+                 <li><a href="#" class="addthis_button">Share this Page</a></li>
+                 <li><a href="../download/index.php">Download Centre</a></li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+   </div>
+   </div>
+   <div class="footerWrapper">
+      <a href="#" class="backToTop"></a>
+      <div class="row">
+		  <div class="copyright">&copy; Copyright 2020 China Mobile Limited. <span>All rights reserved. <a href="../global/termsofuse.php"><span class="bold">Website Terms of Use</span></a></span></div>
+         <div class="footerLang">Language: <a href="javascript:changeLanguage('en');" class="langBtn_en">English</a>  |  <a href="javascript:changeLanguage('tc');" class="langBtn_tc">繁體</a>  |  <a href="javascript:changeLanguage('sc');" class="langBtn_sc">简体</a></div>
+      </div>
+   </div></div>
+<script type="text/javascript" src="../../js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="../../js/fancybox/jquery.fancybox.js?v=2.1.5.js"></script>
+<script type="text/javascript" src="../../js/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="../../js/highcharts.js"></script>
+<script type="text/javascript" src="../../js/exporting.js"></script>
+<script type="text/javascript" src="../../js/jquery.appear.js"></script>
+<script type="text/javascript" src="../../js/en/chart_common.js"></script>
+
+<script type="text/javascript" src="../../js/slick/slick.min.js"></script>
+<script type="text/javascript" src="../../js/magnific.js"></script>
+<script type="text/javascript" src="../../js/jquery.responsiveTabs.min.js"></script>
+<script type="text/javascript" src="../../js/common.js"></script>
+<script language="javascript" type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script>
+
+
+<script type="text/javascript">
+$(function(){
+	var index = $("#year2019").parent("div").index();
+	$(".yearNav, .milesNav").slick("slickGoTo",index,true);
+});
+</script>
+
+
+<script>
+$('.open-popup-link').magnificPopup({
+  type:'inline',
+  midClick: true
+});
+</script>
+</body>
+</html>
