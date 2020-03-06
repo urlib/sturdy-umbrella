@@ -1,0 +1,340 @@
+<!doctype html>
+<html>
+<head>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png"  href="/apple-touch-icon.png">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<title>China Mobile Limited - About China Mobile &gt; Corporate Governance</title>
+<link href="../css/fonts.css" rel="stylesheet" type="text/css">
+<link href="../css/reset.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link href="../css/tablet.css" rel="stylesheet" type="text/css">
+<link href="../css/desktop.css" rel="stylesheet" type="text/css">
+<link href="../../js/slick/slick.css" rel="stylesheet" type="text/css">
+<link href="../css/style1.css" rel="stylesheet" type="text/css">
+<link href="../css/style2.css" rel="stylesheet" type="text/css">
+<link href="../css/magnific-popup.css" rel="stylesheet" type="text/css">
+<link href="../css/responsive-tabs.css" rel="stylesheet" type="text/css">
+<link href="../../js/fancybox/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css">
+<link href="../css/print.css" rel="stylesheet" type="text/css"></head>
+
+<body class="contentPage">
+
+<div class="wrapper">
+   <div class="headerWrapper">
+     <div id="search-popup" class="mfp-hide search">
+		 <h1>Search</h1>
+		 <div class="search-container">
+			<form method="get" action="../global/search.php">
+		 	<input type="text" id="search" value="" name="q" id="q"   placeholder="Search">
+			<span><input type="image" src="../images/global/searchicon.svg" width="100px" height="40px" alt="submit" style="margin-bottom:5px;"></span>
+			</form>
+			
+			
+			
+		 </div>
+	 </div>
+     <div id="tools-popup" class="mfp-hide">
+		 <h1>Tools</h1>
+		 <div class="search-container">
+		 <ul class="tools">
+			                  <li><a href="../global/rss.php"><div class="icon"><img src="../images/global/icon_rss.png" alt=""/></div>RSS Feeds</a></li>
+                 <li class="print"><a href="#"><div class="icon"><img src="../images/global/icon_print.png" alt=""/></div>Print this Page</a></li>
+                 <li class="bookmark"><a href="#" class="bookmark"><div class="icon"><img src="../images/global/icon_add.png" alt=""/></div>Add to Favourites</a></li>
+                 <li><a href="../webform/emailpage.php?page=https://www.chinamobileltd.com/en/about/procedures.php" id="emailpage" ><div class="icon"><img src="../images/global/icon_email.png" alt=""/></div>Email this Page</a></li>
+                 <li><a href="#" class="addthis_button"><div class="icon"><img src="../images/global/icon_share.png" alt=""/></div>Share this Page</a></li>
+                 <li><a href="../download/index.php"><div class="icon"><img src="../images/global/icon_downloadtools.png" alt=""/></div>Download Centre</a></li>
+                 <div class="clear"></div>
+            </ul>
+		 </div>
+	 </div>
+     <div id="language-popup" class="mfp-hide">
+		 <h1>Language</h1>
+		 <div class="search-container">
+			 <div><a href="javascript:changeLanguage('en');" class="act">EN</a>  <a href="javascript:changeLanguage('tc');">繁體</a>  <a href="javascript:changeLanguage('sc');">简体</a> </div>
+		 </div>
+	 </div>
+      <div class="row header">
+		  <div class="fleft">
+			  <div class="logo"><a href="../global/home.php"><img src="../images/global/logo.svg" alt=""/></a></div>
+		  </div>
+		  <div class="fright">
+		  	  
+			  <div class="topIcon">
+			  	<ul>
+				   <li><a href="#search-popup" class="maintools-popup"><img src="../images/global/icon_search.svg" alt=""/></a></li>
+				   <li><a href="#tools-popup" class="maintools-popup"><img src="../images/global/icon_tools.svg" alt=""/></a></li>
+				   <li><a href="#language-popup" class="maintools-popup"><img src="../images/global/icon_language.svg" alt=""/></a></li>
+				   <li class="hamburger"><a href="javascript:void(0);" onclick="openNav()"><img src="../images/global/icon_hamburger.svg" alt=""/></a></li>
+				</ul>
+			  </div>
+			  <div class="topnavWrapper navControl">
+	<ul class="topnav">
+        <li class=""><a href="javascript:void(0);">About China Mobile</a>
+        	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subAbout">
+				  <ul>
+					 <li><a href="../about/overview.php">Overview</a></li>
+					 <li><a href="../about/chairman.php">Chairman's Statement</a></li>
+					 <li><a href="../about/directors.php">Board of Directors and Senior Management</a></li>
+					 <li><a href="../about/milestones.php">Milestones</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../about/awards.php">Recognition & Awards</a></li>
+					 <li><a href="../about/rating.php">Credit Ratings</a></li>
+					 <li><a href="../about/cg.php">Corporate Governance</a></li>
+					 <li><a href="../about/sd.php">Sustainable Development</a></li>
+				  </ul>
+				</div>
+				</div>
+            </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Investor Relations</a>
+         	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subIr">
+				  <ul>
+					 <li><a href="../ir/operation_m.php">Monthly Customer Data</a></li>
+					 <li><a href="../ir/operation_q.php">Key Operation Data</a></li>
+					 <li><a href="../ir/financial.php">Financial Review</a></li>
+					 <li><a href="../ir/stockquote.php">Shareholders Service</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../ir/reports.php">Financial Reports</a></li>
+					 <li><a href="../ir/webcasts.php">Presentations / Webcasts</a></li>
+				  </ul>
+					<ul>
+					 <li><a href="../ir/announcements.php">Announcements</a></li>
+					 <li><a href="../ir/sec.php">US SEC Filings</a></li>
+					 <li><a href="../ir/circulars.php">Circulars & Other Documents</a></li>
+					 <li><a href="../ir/faq.php">FAQs</a></li>
+					</ul>
+					<ul>				 
+					 <li><a href="../ir/corpactions.php">Corporate Actions</a></li>
+					 <li><a href="../ir/ircalendar.php">IR Calendar</a></li>
+					 <li><a href="../ir/analyst.php">Analyst Coverage</a></li>
+		             <li><a href="../ir/ircontact.php">IR Contact</a></li>
+					</ul>
+				</div>
+				</div>
+            </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Media Centre</a>
+        		<div class="subnav">
+          	  <div class="row">
+         		<div class="subMedia">
+				  <ul>
+					 <li><a href="../media/press.php">Press Releases</a></li>
+					 <li><a href="../media/news.php">News Highlights</a></li>
+					 <li><a href="../media/gallery.php">Photo Gallery</a></li>
+					 <li><a href="../media/video.php">Video Gallery</a></li>
+				  </ul>
+				  <ul>
+					 <li><a href="../media/corpimage.php">Corporate Images</a></li>
+					 <li><a href="../media/contact.php">Media Contact</a></li>
+				  </ul>
+				</div>
+					</div>
+			 </div>
+         </li>
+         <li class=""><a href="javascript:void(0);">Our Business</a>
+         	<div class="subnav">
+          	  <div class="row">
+          	  	<div class="subBusiness">
+				  <ul>
+					 <li><a href="../business/business.php">Business Review</a></li>
+					 <li><a href="../business/service.php">Products & Services</a></li>
+					 <li><a href="../business/networks.php">Networks & Technologies</a></li>
+				  </ul>
+				</div>
+				</div>
+            </div>
+         </li>     
+	</ul>
+</div>			  <div class="clear"></div>
+		  </div>
+		  <div class="clear"></div>
+      </div>
+</div>
+   
+     <div class="subBanner img1"></div>
+   <div class="fullWidth">
+   	<div class="row">
+    	<div class="titleWrapper">
+            <div class="title">Corporate Governance</div>
+         </div>
+    </div>
+    <div class="yearWrapper sdyearWrapper">
+    <div class="row">
+    	 <div class="yearBar">
+             <a class="yearPrev" href="javascript:void(0);"></a>
+             <a class="yearNext" href="javascript:void(0);"></a>
+             <div class="sdNav">        
+                <div class=""><a href="cg.php?scroll2title=1" id="btn_cg" class=""><span>Corporate<br>Governance Report</span></a></div>
+                <div class=""><a href="listofdirectors.php?scroll2title=1" id="btn_listofdirectors" class=""><span>List of Directors and their Role and Function</span></a></div>
+                <div class="act"><a href="procedures.php?scroll2title=1" id="btn_procedures" class="act"><span>Procedures for Election of Directors</span></a></div>
+                <div class=""><a href="cg/aa.pdf" id="btn_ma" class="" target="_blank"><span>Articles<br>of Association</span></a></div>
+                <div class=""><a href="cg/directors_subsidiaries.pdf" id="btn_directors_subsidiaries" class="" target="_blank"><span>List of Directors of Subsidiaries</span></a></div>
+                <div class=""><a href="cg/ethics.pdf" id="btn_ethics" class="" target="_blank"><span>Code of Ethics</span></a></div>
+             </div>
+         </div>
+    </div>
+</div>
+   <div class="contentWrapper">
+      <div class="row">
+         <!-- Content Area Start-->
+		 <!--<div class="subTitle"><a href="javascript:void(0);">SubTitle</a></div>-->
+		<div class="subTitleWrapper q">
+		   <div class="subTitleBg"><img src="../images/global/subtitleBg.png" alt=""/></div>
+		   <div class="subTitle">Procedures for Shareholders to Propose a Person for Election as Director</div>
+		</div>
+            <p>According to the articles of association (the "<span class="bold">Articles</span>") of China Mobile Limited (the "<span class="bold">Company</span>"), the Company may, from time to time, by ordinary resolution elect any person to be a director either to fill a casual vacancy or as an addition to the board of directors of the Company (the "<span class="bold">Board</span>").</p>
+            <p>Shareholders holding the requisite voting rights may requisition to move a resolution at an Annual General Meeting ("<span class="bold">AGM</span>") to elect, or to convene an Extraordinary General Meeting ("<span class="bold">EGM</span>") for the passing of a resolution to elect, any person to be a director of the Company in accordance with the Articles and the Companies Ordinance (Chapter 622, Laws of Hong Kong). In addition, a shareholder may propose a person for election as a director of the Company at a general meeting.</p>
+            <p>Set out below are the procedures for shareholders to (i) requisition to move a resolution at the AGM; (ii) requisition to convene an EGM; and (iii) propose a person other than a retiring director for election as a director at a general meeting. Such procedures are subject to applicable legislation and regulations, in particular the Companies Ordinance (Chapter 622, Laws of Hong Kong).</p>
+            <p><span class="subSubTitle">(i) Requisition to move a resolution at an AGM</span></p>
+            <ul>
+              <li>The Company holds a general meeting as its AGM every year. The AGM is usually held in May. </li>
+              <li>A requisition to move a resolution at the AGM may be submitted by: <br />
+                (i) any number of shareholders representing not less than one-fortieth (1/40<sup>th</sup>) of the total voting rights of all shareholders having the right to vote at the AGM; or<br />
+                (ii) not less than 50 shareholders holding shares in the Company on which there has been paid up an average sum, per shareholder, of not less than HK$2,000.</li>
+              <li>The requisition must state the resolution, and must be signed by all the requisitionists on one or more copies which between them contain the signatures of all the requisitionists.</li>
+              <li>The requisition must be deposited at 60/F, The Center, 99 Queen's Road Central, Hong Kong, the registered office of the Company, for the attention of the Company Secretary not less than six weeks before the meeting in the case of a requisition requiring notice of a resolution and not less than one week in the case of any other requisition. </li>
+              <li>The requisition will be verified with Hong Kong Registrars Limited, the Company's share registrars and upon their confirmation that the requisition is proper and in order, the Company Secretary will ask the Board to include the resolution in the agenda for the AGM provided that the requisitionists have deposited or tendered with the requisition a sum reasonably sufficient to meet the Company's expenses in serving the notice of the resolution in accordance with the statutory requirements to all the registered shareholders of the Company. On the contrary, if the requisition has been verified as not in order or the requisitionists have failed to deposit sufficient sum to meet the Company's expenses for the said purposes, the requisitionists will be advised of this outcome and accordingly, the proposed resolution will not be included in the agenda for the AGM.</li>
+            </ul>
+            <p><span class="subSubTitle">(ii) Requisition to convene an EGM</span></p>
+            <ul>
+              <li>Shareholders holding not less than one-twentieth (1/20<sup>th</sup>) of the paid-up capital of the Company which carries the right of voting at general meetings of the Company can deposit a requisition to convene an EGM. </li>
+              <li>The requisition must state the objects of the meeting, and must be signed by the requisitionists and may consist of several documents in like form, each signed by one or more requisitionists. The requisition must be deposited at 60/F, The Center, 99 Queen's Road Central, Hong Kong, the registered office of the Company, for the attention of the Company Secretary.</li>
+              <li>The requisition will be verified with Hong Kong Registrars Limited, the Company's share registrars and upon their confirmation that the requisition is proper and in order, the Company Secretary will ask the Board to convene an EGM by serving sufficient notice in accordance with the statutory requirements to all the registered shareholders. On the contrary, if the requisition has been verified as not in order, the requisitionists will be advised of this outcome and accordingly, an EGM will not be convened as requested.</li>
+            </ul>
+            <p><span class="subSubTitle">(iii) Proposing a person other than a retiring director for election as a director at a general meeting</span></p>
+            <p>If a shareholder wishes to propose a person other than a retiring director for election as a director at a general meeting, he/she must lodge a written notice to that effect at 60/F, The Center, 99 Queen's Road Central, Hong Kong, the registered office of the Company, for the attention of the Company Secretary. In order for the Company to inform shareholders of that proposal, the written notice must state the full name of the person proposed for election as a director, include the person's biographical details as required by rule 13.51(2) of the Rules Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited, and be signed by the shareholder concerned. A written notice signed by the person proposed for election as a director indicating his/her willingness to be elected must also be lodged with the Company. The period for lodgment of such written notices shall be of not less than seven days and shall commence no earlier than the despatch of the notice of the general meeting and end no later than seven days prior to the date of the general meeting. If the notices are received less than 15 days prior to the general meeting, the Company will need to consider the adjournment of the general meeting in order to allow shareholders 14 days' notice of the proposal.</p>
+
+      </div>
+   </div>
+   
+<div class="sitemapWrapper">
+      <div class="row">
+      	<div class="breadCrumb">
+			<img src="../images/global/icon_logo.png" alt=""/ ><a href="../global/home.php">Home</a>
+            <img src="../images/global/breadcrumb_arrow.png" class="arrow"> About China Mobile
+<img src="../images/global/breadcrumb_arrow.png" class="arrow"> Corporate Governance
+        </div>
+        <div class="sitemapContainer">
+        <div class="item">
+        	<div class="title">About China Mobile</div>
+            <ul class="sitemap">
+            	 <li><a href="../about/overview.php">Overview</a></li>
+                 <li><a href="../about/chairman.php">Chairman's Statement</a></li>
+                 <li><a href="../about/directors.php">Board of Directors and Senior Management</a></li>
+                 <li><a href="../about/milestones.php">Milestones</a></li>
+                 <li><a href="../about/awards.php">Recognition & Awards</a></li>
+                 <li><a href="../about/rating.php">Credit Ratings</a></li>
+                 <li><a href="../about/cg.php">Corporate Governance</a></li>
+                 <li><a href="../about/sd.php">Sustainable Development</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <div class="item">
+        	<div class="title">Investor Relations</div>
+            <ul class="sitemap">
+            	 <li><a href="../ir/operation_m.php">Monthly Customer Data</a></li>
+            	 <li><a href="../ir/operation_q.php">Key Operation Data</a></li>
+            	 <li><a href="../ir/financial.php">Financial Review</a></li>
+                 <li><a href="../ir/reports.php">Financial Reports</a></li>
+                 <li><a href="../ir/webcasts.php">Presentations / Webcasts</a></li>
+                 <li><a href="../ir/announcements.php">Announcements</a></li>
+                 <li><a href="../ir/sec.php">US SEC Filings</a></li>
+                 <li><a href="../ir/circulars.php">Circulars & Other Documents</a></li>
+                 <li><a href="../ir/corpactions.php">Corporate Actions</a></li>
+                 <li><a href="../ir/stockquote.php">Shareholders Service</a></li>
+                 <li><a href="../ir/ircalendar.php">IR Calendar</a></li>
+                 <li><a href="../ir/analyst.php">Analyst Coverage</a></li>
+                 <li><a href="../ir/faq.php">FAQs</a></li>
+                 <li><a href="../ir/ircontact.php">IR Contact</a></li>
+            </ul>
+        </div>
+        <div class="item">
+        	<div class="title">Media Centre</div>
+            <ul class="sitemap">
+            	 <li><a href="../media/press.php">Press Releases</a></li>
+                 <li><a href="../media/news.php">News Highlights</a></li>
+                 <li><a href="../media/gallery.php">Photo Gallery</a></li>
+                 <li><a href="../media/video.php">Video Gallery</a></li>
+                 <li><a href="../media/corpimage.php">Corporate Images</a></li>
+                 <li><a href="../media/contact.php">Media Contact</a></li>
+            </ul>
+        </div>
+        <div class="item">
+        	<div class="title">Our Business</div>
+            <ul class="sitemap">
+            	 <li><a href="../business/business.php">Business Review</a></li>
+                 <li><a href="../business/service.php">Products & Services</a></li>
+                 <li><a href="../business/networks.php">Networks & Technologies</a></li>
+            </ul>
+        </div>
+		  </div>
+        <div class="item tools">
+        	<div class="title">Tools</div>
+            <ul class="sitemap">
+            	                  <li><a href="../global/rss.php">RSS Feeds</a></li>
+                 <li><a href="#" class="print">Print this Page</a></li>
+                 <li><a href="#" class="bookmark">Add to Favourites</a></li>
+                 <li><a href="../webform/emailpage.php?page=https://www.chinamobileltd.com/en/about/procedures.php" id="emailpage" >Email this Page</a></li>               
+                 <li><a href="#" class="addthis_button">Share this Page</a></li>
+                 <li><a href="../download/index.php">Download Centre</a></li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+   </div>
+   </div>
+   <div class="footerWrapper">
+      <a href="#" class="backToTop"></a>
+      <div class="row">
+		  <div class="copyright">&copy; Copyright 2020 China Mobile Limited. <span>All rights reserved. <a href="../global/termsofuse.php"><span class="bold">Website Terms of Use</span></a></span></div>
+         <div class="footerLang">Language: <a href="javascript:changeLanguage('en');" class="langBtn_en">English</a>  |  <a href="javascript:changeLanguage('tc');" class="langBtn_tc">繁體</a>  |  <a href="javascript:changeLanguage('sc');" class="langBtn_sc">简体</a></div>
+      </div>
+   </div></div>
+<script type="text/javascript" src="../../js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="../../js/fancybox/jquery.fancybox.js?v=2.1.5.js"></script>
+<script type="text/javascript" src="../../js/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="../../js/highcharts.js"></script>
+<script type="text/javascript" src="../../js/exporting.js"></script>
+<script type="text/javascript" src="../../js/jquery.appear.js"></script>
+<script type="text/javascript" src="../../js/en/chart_common.js"></script>
+
+<script type="text/javascript" src="../../js/slick/slick.min.js"></script>
+<script type="text/javascript" src="../../js/magnific.js"></script>
+<script type="text/javascript" src="../../js/jquery.responsiveTabs.min.js"></script>
+<script type="text/javascript" src="../../js/common.js"></script>
+<script language="javascript" type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script>
+
+
+
+<script type="text/javascript">
+$(function(){
+	var index = $("#btn_procedures").parent("div").index();
+	console.log(index);
+	$(".iconNav, .sdNav").slick("slickGoTo",index,true);
+});
+</script>
+
+<script type="text/javascript">
+//$(function(){
+	//console.log($(".title:first").offset().top);
+	//var scrollPoint = $(".title:first").offset().top-$(".headerWrapper:first").height();
+	var scrollPoint = $(".yearBar:first").offset().top-$(".headerWrapper:first").height();
+	//console.log(scrollPoint);
+	$(document).scrollTop(scrollPoint);
+//});
+</script>
+<script>
+
+</script>
+</body>
+</html>
